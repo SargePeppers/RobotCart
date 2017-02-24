@@ -25,9 +25,9 @@ const float NEUTRAL = 1450;
 //TODO, need to tune the following constants
 //https://github.com/wpilibsuite/allwpilib/blob/ed1a94531a6aa14617b74bc5139817c0529faf54/wpilibc/athena/src/Spark.cpp
 const float MIN_REVERSE = 1460.0;
-const float FULL_REVERSE = 999.0;
-const float MIN_FORWARD = 1550.0;
-const float MAX_FORWARD = 2003;
+const float FULL_REVERSE = 1000.0;
+const float MIN_FORWARD = 1540.0;
+const float MAX_FORWARD = 2000;
 const float NEUTRAL = 1500;
 #endif
 
